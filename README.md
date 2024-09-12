@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 
-Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas na FIAP. Este portfólio apresenta meus projetos em HTML e CSS, desenvolvidos durante minha jornada de aprendizado. 
+Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas na FIAP. Este portfólio apresenta meu primeiro projeto em HTML e CSS, desenvolvido durante minha jornada de aprendizado. 
 
 ## Ferramentas utilizadas:
 * HTML5
