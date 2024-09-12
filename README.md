@@ -4,11 +4,11 @@
 
 Sou João Pedro, estudante de Análise e Desenvolvimento de Sistemas na FIAP. Este portfólio apresenta meus projetos em HTML e CSS, desenvolvidos durante minha jornada de aprendizado. 
 
-**Habilidades:**
+## Ferramentas utilizadas:
 * HTML5
 * CSS3
-* Responsividade
+* Flex-box
 
-**Contato:**
+## Contato:
 * E-mail: jp.requejos@gmail.com
 * LinkedIn: https://www.linkedin.com/in/joaorequejo/
