@@ -1,4 +1,3 @@
-Markdown
 ## Portfólio de João Pedro Pereira Requejo
 
 **Sobre mim:**
